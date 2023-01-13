@@ -6,6 +6,12 @@
 
 `src` - Сама библиотека
 
+### Запуск
+
+- `php ./composer.phar install`
+
+- `php ./app.php`
+
 ### Docker
 
 Билд - `docker build -t testapp .`
