@@ -1,0 +1,16 @@
+{
+    "name": "dk/testwork_lenvendo",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Dk\\TestworkLenvendo\\": "src/",
+            "My\\Commands\\": "commands/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dmitry Kuznetsov"
+        }
+    ],
+    "require": {}
+}
